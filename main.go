@@ -4,9 +4,9 @@ import (
 	"flag"
 
 	"github.com/asticode/go-astiffprobe"
-	"github.com/asticode/go-astilectron"
-	"github.com/asticode/go-astilectron-bootstrap"
-	"github.com/asticode/go-astilog"
+	"github.com/tehsphinx/go-astilectron"
+	"github.com/tehsphinx/go-astilectron-bootstrap"
+	"github.com/tehsphinx/go-astilog"
 )
 
 // Vars

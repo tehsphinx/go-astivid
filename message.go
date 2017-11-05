@@ -9,10 +9,10 @@ import (
 
 	"github.com/asticode/go-astichartjs"
 	"github.com/asticode/go-astiffprobe"
-	"github.com/asticode/go-astilectron"
-	"github.com/asticode/go-astilectron-bootstrap"
-	"github.com/asticode/go-astilog"
 	"github.com/pkg/errors"
+	"github.com/tehsphinx/go-astilectron"
+	"github.com/tehsphinx/go-astilectron-bootstrap"
+	"github.com/tehsphinx/go-astilog"
 )
 
 // MessageError represents an error message

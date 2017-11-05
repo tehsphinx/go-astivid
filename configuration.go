@@ -6,8 +6,8 @@ import (
 
 	"github.com/BurntSushi/toml"
 	"github.com/asticode/go-astiffprobe"
-	"github.com/asticode/go-astilog"
 	"github.com/imdario/mergo"
+	"github.com/tehsphinx/go-astilog"
 )
 
 // Flags
